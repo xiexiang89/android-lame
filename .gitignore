@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.gitignore
+CMakeLists.txt
+build.gradle
+libs/
+proguard-rules.pro
+src/
+src/main/res/drawable/

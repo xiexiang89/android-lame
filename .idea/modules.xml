@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lame.iml" filepath="$PROJECT_DIR$/Lame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiorecordlib/audiorecordlib.iml" filepath="$PROJECT_DIR$/audiorecordlib/audiorecordlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/igomp3record/igomp3record.iml" filepath="$PROJECT_DIR$/igomp3record/igomp3record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smaple/smaple.iml" filepath="$PROJECT_DIR$/smaple/smaple.iml" />
+    </modules>
+  </component>
+</project>
